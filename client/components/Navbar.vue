@@ -48,7 +48,7 @@
               </template>
               <b-dropdown-item to="/add-book"><i class="fa fa-plus"/> Add Books</b-dropdown-item>
               <b-dropdown-divider/>
-              <b-dropdown-item to="/settings"><i class="fa fa-cog"/> Settings</b-dropdown-item>
+              <b-dropdown-item to="/settings/profile"><i class="fa fa-cog"/> Settings</b-dropdown-item>
               <b-dropdown-item @click.prevent="logout"><i class="fa fa-sign-out"/> Sign Out</b-dropdown-item>
             </b-nav-item-dropdown>
           </template>

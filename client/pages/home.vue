@@ -1,6 +1,5 @@
 <template>
-  <div class="container">
-    <page-title></page-title>
+  <div class="container mt-4">
     <loading v-if="loading"></loading>
     <book-list variant="home" :books="items" v-if="items.length"></book-list>    
     <div class="error" v-else-if="!error">

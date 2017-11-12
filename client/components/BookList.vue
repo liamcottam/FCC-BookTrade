@@ -102,8 +102,9 @@ export default {
     display: table;
     clear: both;
     margin-bottom: 8px;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
-    padding: 25px;
+    // box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+    padding: 12px;
+    border-bottom: 1px #e1e4e8 solid !important;
     width: 100%;
 
     .item-title {

@@ -12,6 +12,18 @@ router.get('/', (req, res, next) => {
   }).catch(next);
 });
 
+router.patch('/', auth.required, (req, res, next) => {
+  const valid = ['name', 'city', 'state'];
+  const update = {};
+  valid.forEach((item) => {
+    if (req.body[item]) update[item] = req.body[item];
+    else update[item] = null;
+  });
+  User.findByIdAndUpdate(req.token.id, { $set: update }).then(() => {
+    res.sendStatus(200);
+  }).catch(next);
+});
+
 router.patch('/username', auth.required, (req, res, next) => {
   req.assert('username', 'is required').notEmpty();
   req.assert('username', 'needs to be a string').isString();
@@ -62,17 +74,25 @@ router.patch('/password', auth.required, (req, res, next) => {
   }).catch(next);
 });
 
-router.get('/:username/library', (req, res, next) => {
+router.get('/:username/books', (req, res, next) => {
   req.assert('username', 'required').notEmpty();
 
   req.getValidationResult().then((result) => {
     if (result.isEmpty()) {
-      User.findByUsername(req.params.username, { _id: 1, username: 1 }).then((user) => {
+      User.findByUsername(req.params.username).then((user) => {
         if (user) {
           Book.find({ owners: { $in: [user._id] } }, { _id: 0, __v: 0 })
             .sort({ lastModified: -1 })
             .then((books) => {
-              res.json({ username: user.username, books });
+              res.json({
+                profile: {
+                  username: user.username,
+                  name: user.name,
+                  city: user.city,
+                  state: user.state,
+                },
+                books,
+              });
             }).catch(next);
         } else {
           res.status(404).json({ msg: 'User not found' });
@@ -104,7 +124,7 @@ function getBookFromRemote(id) {
   });
 }
 
-router.post('/library', auth.required, (req, res, next) => {
+router.post('/books', auth.required, (req, res, next) => {
   req.assert('id', 'required').notEmpty();
 
   req.getValidationResult().then((result) => {
@@ -141,7 +161,7 @@ router.post('/library', auth.required, (req, res, next) => {
   }).catch(next); /* wtf eslint?? */ // eslint-disable-line
 });
 
-router.delete('/library/:id', auth.required, (req, res, next) => {
+router.delete('/books/:id', auth.required, (req, res, next) => {
   req.assert('id', 'required').notEmpty();
 
   req.getValidationResult().then((result) => {

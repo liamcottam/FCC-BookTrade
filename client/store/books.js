@@ -11,21 +11,21 @@ const actions = {
     return axios.get(`/api/v1/books/search/${encodeURIComponent(payload.query)}`);
   },
   addToLibrary({ getters }, payload) {
-    return axios.post('/api/v1/users/library', payload, {
+    return axios.post('/api/v1/users/books', payload, {
       headers: {
         authorization: `Token ${getters.token}`,
       },
     });
   },
   removeFromLibrary({ getters }, payload) {
-    return axios.delete(`/api/v1/users/library/${payload.id}`, {
+    return axios.delete(`/api/v1/users/books/${payload.id}`, {
       headers: {
         authorization: `Token ${getters.token}`,
       },
     });
   },
   getBooksByUser(_, payload) {
-    return axios.get(`/api/v1/users/${payload.username}/library`);
+    return axios.get(`/api/v1/users/${payload.username}/books`);
   },
 };
 

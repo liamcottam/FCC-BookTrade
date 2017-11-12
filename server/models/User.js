@@ -11,6 +11,18 @@ const UserSchema = new mongoose.Schema({
     required: true,
     unique: true,
   },
+  name: {
+    type: String,
+    required: false,
+  },
+  city: {
+    type: String,
+    required: false,
+  },
+  state: {
+    type: String,
+    required: false,
+  },
   password_hash: {
     type: String,
     required: true,
@@ -78,6 +90,9 @@ UserSchema.methods.generateJWT = function generateJWT() {
 UserSchema.methods.toAuthJSON = function toAuthJSON() {
   const res = { id: this._id };
   res.username = this.username;
+  res.name = this.name;
+  res.city = this.city;
+  res.state = this.state;
   res.token = this.generateJWT();
   return res;
 };

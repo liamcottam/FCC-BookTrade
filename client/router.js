@@ -6,7 +6,8 @@ const Home = () => import(/* webpackChunkName: "home" */ './pages/home');
 const Error = () => import(/* webpackChunkName: "error" */ './pages/error');
 const Auth = () => import(/* webpackChunkName: "auth" */ './pages/auth');
 const Profile = () => import(/* webpackChunkName: "profile" */ './pages/profile');
-const Settings = () => import(/* webpackChunkName: "settings" */ './pages/settings');
+const ProfileSettings = () => import(/* webpackChunkName: "profileSettings" */ './pages/settings/profile');
+const AccountSettings = () => import(/* webpackChunkName: "accountSettings" */ './pages/settings/account');
 const AddBook = () => import(/* webpackChunkName: "addBook" */ './pages/addBook');
 const Book = () => import(/* webpackChunkName: "book" */ './pages/book');
 const CreateTrade = () => import(/* webpackChunkName: "createTrade" */ './pages/createTrade');
@@ -24,7 +25,8 @@ const router = new VueRouter({
     { path: '/home/:term', component: Home, meta: { title: 'Home' } },
     { path: '/library', component: Profile, meta: { auth: true, title: 'My Library' } },
     { path: '/users/:username', component: Profile, meta: { auth: false } },
-    { path: '/settings', component: Settings, meta: { auth: true, title: 'Settings' } },
+    { path: '/settings/profile', component: ProfileSettings, meta: { auth: true} },
+    { path: '/settings/account', component: AccountSettings, meta: { auth: true} },
     { path: '/add-book', component: AddBook, meta: { auth: true, title: 'Add Books' } },
     { path: '/trade/create/:id', component: CreateTrade, meta: { auth: true, title: 'Propose Trade' } },
     { path: '/books/:id', component: Book },
