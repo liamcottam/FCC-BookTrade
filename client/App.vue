@@ -7,7 +7,7 @@
     <div class="container">
       <footer class="page-footer">
         <div class="footer-container text-center">
-          <a :href="`https://github.com/liamcottam/FCC-${$appName}`" target="_blank"><span class="fa fa-github"></span> Source Code</a>
+          <a :href="`https://github.com/liamcottam/FCC-BookTrade`" target="_blank"><span class="fa fa-github"></span> Source Code</a>
         </div>
       </footer>
     </div>
