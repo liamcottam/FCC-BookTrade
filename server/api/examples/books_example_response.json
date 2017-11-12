@@ -1,0 +1,664 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 4996,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "IwywDY4P6gsC",
+      "etag": "tED4P378Xp4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/IwywDY4P6gsC",
+      "volumeInfo": {
+        "title": "Foundation",
+        "authors": ["Isaac Asimov"],
+        "publisher": "Spectra",
+        "publishedDate": "2004-06-01",
+        "description":
+          "For twelve thousand years the Galactic Empire has ruled supreme. Now it is dying. But only Hari Sheldon, creator of the revolutionary science of psychohistory, can see into the future--to a dark age of ignorance, barbarism, and warfare that will last thirty thousand years. To preserve knowledge and save mankind, Seldon gathers the best minds in the Empire--both scientists and scholars--and brings them to a bleak planet at the edge of the Galaxy to serve as a beacon of hope for a fututre generations. He calls his sanctuary the Foundation. But soon the fledgling Foundation finds itself at the mercy of corrupt warlords rising in the wake of the receding Empire. Mankind's last best hope is faced with an agonizing choice: submit to the barbarians and be overrun--or fight them and be destroyed.",
+        "industryIdentifiers": [
+          {"type": "ISBN_10", "identifier": "055390034X"},
+          {"type": "ISBN_13", "identifier": "9780553900347"}
+        ],
+        "readingModes": {"text": true, "image": false},
+        "pageCount": 320,
+        "printType": "BOOK",
+        "categories": ["Fiction"],
+        "averageRating": 3.5,
+        "ratingsCount": 3404,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.7.4.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail":
+            "http://books.google.com/books/content?id=IwywDY4P6gsC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail":
+            "http://books.google.com/books/content?id=IwywDY4P6gsC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink":
+          "http://books.google.co.uk/books?id=IwywDY4P6gsC&dq=foundation&hl=&cd=1&source=gbs_api",
+        "infoLink":
+          "http://books.google.co.uk/books?id=IwywDY4P6gsC&dq=foundation&hl=&source=gbs_api",
+        "canonicalVolumeLink":
+          "https://books.google.com/books/about/Foundation.html?hl=&id=IwywDY4P6gsC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {"isAvailable": true},
+        "pdf": {"isAvailable": true},
+        "webReaderLink":
+          "http://play.google.com/books/reader?id=IwywDY4P6gsC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet":
+          "He calls his sanctuary the Foundation. But soon the fledgling Foundation finds itself at the mercy of corrupt warlords rising in the wake of the receding Empire."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FpN7wdie9lwC",
+      "etag": "AWuXZ1MS90o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FpN7wdie9lwC",
+      "volumeInfo": {
+        "title": "Foundation",
+        "subtitle": "B-boys, B-girls and Hip-Hop Culture in New York",
+        "authors": ["Joseph G. Schloss"],
+        "publisher": "Oxford University Press",
+        "publishedDate": "2009-03-05",
+        "description":
+          "B-boying is a form of Afro-diasporic competitive dance that developed in the Bronx, NY in the early 1970s. Widely - though incorrectly - known as \"breakdancing,\" it is often dismissed as a form of urban acrobatics set to music. In reality, however, b-boying is a deeply traditional and profoundly expressive art form that has been passed down from teacher to student for almost four decades. Foundation: B-boys, B-girls and Hip-Hop Culture in New York offers the first serious study of b-boying as both unique dance form and a manifestation of the most fundamental principles of hip-hop culture. Drawing on anthropological and historical research, interviews and personal experience as a student of the dance, Joseph Schloss presents a nuanced picture of b-boying and its social context. From the dance's distinctive musical repertoire and traditional educational approaches to its complex stylistic principles and secret battle strategies, Foundation illuminates a previously unexamined thread in the complex tapestry that is contemporary hip-hop.",
+        "industryIdentifiers": [
+          {"type": "ISBN_10", "identifier": "0199715319"},
+          {"type": "ISBN_13", "identifier": "9780199715312"}
+        ],
+        "readingModes": {"text": true, "image": true},
+        "pageCount": 192,
+        "printType": "BOOK",
+        "categories": ["Performing Arts"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.2.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail":
+            "http://books.google.com/books/content?id=FpN7wdie9lwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail":
+            "http://books.google.com/books/content?id=FpN7wdie9lwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink":
+          "http://books.google.co.uk/books?id=FpN7wdie9lwC&printsec=frontcover&dq=foundation&hl=&cd=2&source=gbs_api",
+        "infoLink":
+          "https://play.google.com/store/books/details?id=FpN7wdie9lwC&source=gbs_api",
+        "canonicalVolumeLink":
+          "https://market.android.com/details?id=book-FpN7wdie9lwC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {"amount": 16.99, "currencyCode": "GBP"},
+        "retailPrice": {"amount": 11.04, "currencyCode": "GBP"},
+        "buyLink":
+          "https://play.google.com/store/books/details?id=FpN7wdie9lwC&rdid=book-FpN7wdie9lwC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {"amountInMicros": 16990000, "currencyCode": "GBP"},
+            "retailPrice": {"amountInMicros": 11040000, "currencyCode": "GBP"},
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink":
+            "http://books.google.co.uk/books/download/Foundation-sample-epub.acsm?id=FpN7wdie9lwC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink":
+            "http://books.google.co.uk/books/download/Foundation-sample-pdf.acsm?id=FpN7wdie9lwC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink":
+          "http://play.google.com/books/reader?id=FpN7wdie9lwC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet":
+          "Foundation: B-boys, B-girls and Hip-Hop Culture in New York offers the first serious study of b-boying as both unique dance form and a manifestation of the most fundamental principles of hip-hop culture."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "tXMryc2ZAxMC",
+      "etag": "cABjIcHYCpg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tXMryc2ZAxMC",
+      "volumeInfo": {
+        "title": "The Book of the Foundations of S. Teresa",
+        "authors": ["Saint Teresa (of Avila)"],
+        "publishedDate": "1858",
+        "industryIdentifiers": [
+          {"type": "OTHER", "identifier": "UVA:X001197415"}
+        ],
+        "readingModes": {"text": false, "image": true},
+        "pageCount": 260,
+        "printType": "BOOK",
+        "categories": ["Convents"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.0.0.0.full.1",
+        "imageLinks": {
+          "smallThumbnail":
+            "http://books.google.com/books/content?id=tXMryc2ZAxMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail":
+            "http://books.google.com/books/content?id=tXMryc2ZAxMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink":
+          "http://books.google.co.uk/books?id=tXMryc2ZAxMC&pg=PP1&dq=foundation&hl=&cd=3&source=gbs_api",
+        "infoLink":
+          "https://play.google.com/store/books/details?id=tXMryc2ZAxMC&source=gbs_api",
+        "canonicalVolumeLink":
+          "https://market.android.com/details?id=book-tXMryc2ZAxMC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink":
+          "https://play.google.com/store/books/details?id=tXMryc2ZAxMC&rdid=book-tXMryc2ZAxMC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink":
+            "http://books.google.co.uk/books/download/The_Book_of_the_Foundations_of_S_Teresa.epub?id=tXMryc2ZAxMC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink":
+            "http://books.google.co.uk/books/download/The_Book_of_the_Foundations_of_S_Teresa.pdf?id=tXMryc2ZAxMC&hl=&output=pdf&sig=ACfU3U1_M1Lf-mY75TzDQQeU9t_6uUL-0g&source=gbs_api"
+        },
+        "webReaderLink":
+          "http://play.google.com/books/reader?id=tXMryc2ZAxMC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "38pZAAAAMAAJ",
+      "etag": "NtooH2cnnCo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/38pZAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Foundation",
+        "publishedDate": "2002",
+        "industryIdentifiers": [
+          {"type": "OTHER", "identifier": "UOM:39015067523871"}
+        ],
+        "readingModes": {"text": false, "image": false},
+        "printType": "BOOK",
+        "categories": ["Books"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.13.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail":
+            "http://books.google.com/books/content?id=38pZAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail":
+            "http://books.google.com/books/content?id=38pZAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink":
+          "http://books.google.co.uk/books?id=38pZAAAAMAAJ&q=foundation&dq=foundation&hl=&cd=4&source=gbs_api",
+        "infoLink":
+          "http://books.google.co.uk/books?id=38pZAAAAMAAJ&dq=foundation&hl=&source=gbs_api",
+        "canonicalVolumeLink":
+          "https://books.google.com/books/about/Foundation.html?hl=&id=38pZAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {"isAvailable": false},
+        "pdf": {"isAvailable": false},
+        "webReaderLink":
+          "http://play.google.com/books/reader?id=38pZAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LVHUAwAAQBAJ",
+      "etag": "66SETznfuOw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LVHUAwAAQBAJ",
+      "volumeInfo": {
+        "title": "Things Hidden Since the Foundation of the World",
+        "authors": ["René Girard", "Jean-Michel Oughourlian", "Guy Lefort"],
+        "publisher": "A&C Black",
+        "publishedDate": "2003",
+        "description":
+          "Presenting an original global theory of culture, Girard explores the social function of violence and the mechanism of the social scapegoat. His vision is a challenge to conventional views of literature, anthropology, religion and psychoanalysis. Rene Gerard is the Andrew B. Hammond Professor Emeritus of French Language, Literature and Civilization at Stanford University, USA.",
+        "industryIdentifiers": [
+          {"type": "ISBN_13", "identifier": "9780826468536"},
+          {"type": "ISBN_10", "identifier": "0826468535"}
+        ],
+        "readingModes": {"text": false, "image": true},
+        "pageCount": 469,
+        "printType": "BOOK",
+        "categories": ["Philosophy"],
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail":
+            "http://books.google.com/books/content?id=LVHUAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail":
+            "http://books.google.com/books/content?id=LVHUAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink":
+          "http://books.google.co.uk/books?id=LVHUAwAAQBAJ&printsec=frontcover&dq=foundation&hl=&cd=5&source=gbs_api",
+        "infoLink":
+          "http://books.google.co.uk/books?id=LVHUAwAAQBAJ&dq=foundation&hl=&source=gbs_api",
+        "canonicalVolumeLink":
+          "https://books.google.com/books/about/Things_Hidden_Since_the_Foundation_of_th.html?hl=&id=LVHUAwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {"isAvailable": false},
+        "pdf": {"isAvailable": false},
+        "webReaderLink":
+          "http://play.google.com/books/reader?id=LVHUAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet":
+          "Presenting an original global theory of culture, Girard explores the social function of violence and the mechanism of the social scapegoat."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "kUhf1TT1vw8C",
+      "etag": "Y/RKeRvxlmA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/kUhf1TT1vw8C",
+      "volumeInfo": {
+        "title": "Saint Paul",
+        "subtitle": "The Foundation of Universalism",
+        "authors": ["Alain Badiou"],
+        "publisher": "Stanford University Press",
+        "publishedDate": "1997",
+        "description":
+          "This book revisits and revises some of the most basic concepts of time in the Judeo-Christian tradition, drawing on St. Paul's writings to rethink a new kind of radical faith in truth as an event, as the advent of the incalculable, a modality that remakes the pairing religious/secular.",
+        "industryIdentifiers": [
+          {"type": "ISBN_10", "identifier": "0804744718"},
+          {"type": "ISBN_13", "identifier": "9780804744713"}
+        ],
+        "readingModes": {"text": true, "image": true},
+        "pageCount": 111,
+        "printType": "BOOK",
+        "categories": ["Philosophy"],
+        "averageRating": 3.5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.2.0.preview.3",
+        "imageLinks": {
+          "smallThumbnail":
+            "http://books.google.com/books/content?id=kUhf1TT1vw8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail":
+            "http://books.google.com/books/content?id=kUhf1TT1vw8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink":
+          "http://books.google.co.uk/books?id=kUhf1TT1vw8C&printsec=frontcover&dq=foundation&hl=&cd=6&source=gbs_api",
+        "infoLink":
+          "http://books.google.co.uk/books?id=kUhf1TT1vw8C&dq=foundation&hl=&source=gbs_api",
+        "canonicalVolumeLink":
+          "https://books.google.com/books/about/Saint_Paul.html?hl=&id=kUhf1TT1vw8C"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink":
+            "http://books.google.co.uk/books/download/Saint_Paul-sample-epub.acsm?id=kUhf1TT1vw8C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {"isAvailable": false},
+        "webReaderLink":
+          "http://play.google.com/books/reader?id=kUhf1TT1vw8C&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet":
+          "This book revisits and revises some of the most basic concepts of time in the Judeo-Christian tradition, drawing on St. Paul&#39;s writings to rethink a new kind of radical faith in truth as an event, as the advent of the incalculable, a ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "svtB42GZlk4C",
+      "etag": "ldHxx7ZJ3oA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/svtB42GZlk4C",
+      "volumeInfo": {
+        "title": "Oxford Handbook for the Foundation Programme",
+        "authors": [
+          "Tim Raine",
+          "Katherine McGinn",
+          "James Dawson",
+          "Stephan Sanders",
+          "Simon Eccles"
+        ],
+        "publisher": "Oxford University Press",
+        "publishedDate": "2011-08-11",
+        "description":
+          "This new edition of the Oxford Handbook for the Foundation Programme provides everything you need to excel in your first two years as a doctor. Building on the success of the previous editions, and the valuable feedback from junior and senior doctors, the third edition has been extensively revised and updated. The handbook is now in full colour, which has been used to make the facts stand out and to simplify navigation to the right page. The sections on prescribing and drug doses, emergencies, and clinical medicine have been expanded and reordered. This includes the addition of a 'pharmacopeia' with key information for commonly-prescribed drugs including dose, contraindications, and key side-effects. Along with the latest in clinical practice, the handbook includes the parts of the job rarely covered at medical school such as day-to-day life on the wards, referrals, clerking patients, procedures, and hospital paperwork, as well as providing advice on ethics, communication, and what to do when things go wrong. The handbook has practical tips on the current career system, Foundation Programme requirements, MMC, completing your portfolio, interviews, application forms, and how to get published. With practical advice from the authors' personal experience, and key evidence-based clinical information. This handbook is the ultimate quick-reference survival guide to the Foundation Programme and is indispensible for all junior doctors.",
+        "industryIdentifiers": [
+          {"type": "ISBN_13", "identifier": "9780199606481"},
+          {"type": "ISBN_10", "identifier": "019960648X"}
+        ],
+        "readingModes": {"text": false, "image": true},
+        "pageCount": 636,
+        "printType": "BOOK",
+        "categories": ["Medical"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail":
+            "http://books.google.com/books/content?id=svtB42GZlk4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail":
+            "http://books.google.com/books/content?id=svtB42GZlk4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink":
+          "http://books.google.co.uk/books?id=svtB42GZlk4C&printsec=frontcover&dq=foundation&hl=&cd=7&source=gbs_api",
+        "infoLink":
+          "http://books.google.co.uk/books?id=svtB42GZlk4C&dq=foundation&hl=&source=gbs_api",
+        "canonicalVolumeLink":
+          "https://books.google.com/books/about/Oxford_Handbook_for_the_Foundation_Progr.html?hl=&id=svtB42GZlk4C"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {"isAvailable": false},
+        "pdf": {"isAvailable": false},
+        "webReaderLink":
+          "http://play.google.com/books/reader?id=svtB42GZlk4C&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet":
+          "This new edition of the Oxford Handbook for the Foundation Programme provides everything you need to excel in your first two years as a doctor."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2sRC8vcDYNEC",
+      "etag": "GY7hzHliVxI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2sRC8vcDYNEC",
+      "volumeInfo": {
+        "title": "Understanding Computers and Cognition",
+        "subtitle": "A New Foundation for Design",
+        "authors": ["Terry Winograd", "Fernando Flores"],
+        "publisher": "Intellect Books",
+        "publishedDate": "1986",
+        "description":
+          "Understanding Computers and Cognition presents an important and controversial new approach to understanding what computers do and how their functioning is related to human language, thought, and action. While it is a book about computers, Understanding Computers and Cognition goes beyond the specific issues of what computers can or can't do. It is a broad-ranging discussion exploring the background of understanding in which the discourse about computers and technology takes place. Understanding Computers and Cognition is written for a wide audience, not just those professionals involved in computer design or artificial intelligence. It represents an important contribution to the ongoing discussion about what it means to be a machine, and what it means to be human.",
+        "industryIdentifiers": [
+          {"type": "ISBN_10", "identifier": "0893910503"},
+          {"type": "ISBN_13", "identifier": "9780893910501"}
+        ],
+        "readingModes": {"text": false, "image": true},
+        "pageCount": 207,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "averageRating": 3.5,
+        "ratingsCount": 4,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.1.3.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail":
+            "http://books.google.com/books/content?id=2sRC8vcDYNEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail":
+            "http://books.google.com/books/content?id=2sRC8vcDYNEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink":
+          "http://books.google.co.uk/books?id=2sRC8vcDYNEC&printsec=frontcover&dq=foundation&hl=&cd=8&source=gbs_api",
+        "infoLink":
+          "http://books.google.co.uk/books?id=2sRC8vcDYNEC&dq=foundation&hl=&source=gbs_api",
+        "canonicalVolumeLink":
+          "https://books.google.com/books/about/Understanding_Computers_and_Cognition.html?hl=&id=2sRC8vcDYNEC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {"isAvailable": false},
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink":
+            "http://books.google.co.uk/books/download/Understanding_Computers_and_Cognition-sample-pdf.acsm?id=2sRC8vcDYNEC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink":
+          "http://play.google.com/books/reader?id=2sRC8vcDYNEC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet":
+          "Understanding Computers and Cognition presents an important and controversial new approach to understanding what computers do and how their functioning is related to human language, thought, and action."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ro2mWxFgY5AC",
+      "etag": "/ymyu/ZVcJM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ro2mWxFgY5AC",
+      "volumeInfo": {
+        "title": "Foundations of Low Vision",
+        "subtitle": "Clinical and Functional Perspectives",
+        "authors": ["Anne Lesley Corn", "Jane N. Erin"],
+        "publisher": "American Foundation for the Blind",
+        "publishedDate": "2010-01",
+        "description":
+          "Foundations of Low Vision: Clinical and Functional Perspectives, the ground-breaking text that highlighted the importance of focusing on the functional as well as the clinical implications of low vision, has been completely updated and expanded in this second edition. The revised edition goes even further in its presentation of how best to assess and support both children and adults with low vision and plan programs and services that optimize their functional vision and ability to lead productive and satisfying lives, based on individuals' actual abilities. Part 1, Personal and Professional Perspectives, provides the foundations of this approach, with chapters focused on the anatomy of the eye, medical causes of visual impairment, optics and low vision devices, and clinical low vision services, as well as psychological and social implications of low vision and the history of the field. Part 2 focuses on children and youths, providing detailed treatment of functional vision assessment, instruction, use of low vision devices, orientation and mobility, and assistive technology. Part 3 presents rehabilitation and employment issues for working-age adults and special considerations for older adults.",
+        "industryIdentifiers": [
+          {"type": "ISBN_13", "identifier": "9780891288831"},
+          {"type": "ISBN_10", "identifier": "089128883X"}
+        ],
+        "readingModes": {"text": false, "image": true},
+        "pageCount": 965,
+        "printType": "BOOK",
+        "categories": ["Medical"],
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail":
+            "http://books.google.com/books/content?id=ro2mWxFgY5AC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail":
+            "http://books.google.com/books/content?id=ro2mWxFgY5AC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink":
+          "http://books.google.co.uk/books?id=ro2mWxFgY5AC&printsec=frontcover&dq=foundation&hl=&cd=9&source=gbs_api",
+        "infoLink":
+          "http://books.google.co.uk/books?id=ro2mWxFgY5AC&dq=foundation&hl=&source=gbs_api",
+        "canonicalVolumeLink":
+          "https://books.google.com/books/about/Foundations_of_Low_Vision.html?hl=&id=ro2mWxFgY5AC"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {"isAvailable": false},
+        "pdf": {"isAvailable": false},
+        "webReaderLink":
+          "http://play.google.com/books/reader?id=ro2mWxFgY5AC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet":
+          "This text provides a broad overview of low vision, with an emphasis on the functional dimensions of low vision and what it means to the person who lives with it. The text is aimed at professionals working with people who have low vision."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "r0iBW7fygu8C",
+      "etag": "N68esBv8sP8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/r0iBW7fygu8C",
+      "volumeInfo": {
+        "title": "The Intellectual Foundation of Information Organization",
+        "authors": ["Elaine Svenonius"],
+        "publisher": "MIT Press",
+        "publishedDate": "2000",
+        "description":
+          "Integrating the disparate disciplines of descriptive cataloging, subject cataloging, indexing, and classification, the book adopts a conceptual framework that views the process of organizing information as the use of a special language of description called a bibliographic language.",
+        "industryIdentifiers": [
+          {"type": "ISBN_10", "identifier": "0262194333"},
+          {"type": "ISBN_13", "identifier": "9780262194334"}
+        ],
+        "readingModes": {"text": false, "image": true},
+        "pageCount": 255,
+        "printType": "BOOK",
+        "categories": ["Language Arts & Disciplines"],
+        "averageRating": 4,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.0.1.0.preview.1",
+        "imageLinks": {
+          "smallThumbnail":
+            "http://books.google.com/books/content?id=r0iBW7fygu8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail":
+            "http://books.google.com/books/content?id=r0iBW7fygu8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink":
+          "http://books.google.co.uk/books?id=r0iBW7fygu8C&printsec=frontcover&dq=foundation&hl=&cd=10&source=gbs_api",
+        "infoLink":
+          "http://books.google.co.uk/books?id=r0iBW7fygu8C&dq=foundation&hl=&source=gbs_api",
+        "canonicalVolumeLink":
+          "https://books.google.com/books/about/The_Intellectual_Foundation_of_Informati.html?hl=&id=r0iBW7fygu8C"
+      },
+      "saleInfo": {
+        "country": "GB",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "GB",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {"isAvailable": false},
+        "pdf": {"isAvailable": false},
+        "webReaderLink":
+          "http://play.google.com/books/reader?id=r0iBW7fygu8C&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet":
+          "Integrating the disparate disciplines of descriptive cataloging, subject cataloging, indexing, and classification, the book adopts a conceptual framework that views the process of organizing information as the use of a special language of ..."
+      }
+    }
+  ]
+}

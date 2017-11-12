@@ -1,0 +1,88 @@
+{
+  "kind": "books#volume",
+  "id": "IwywDY4P6gsC",
+  "etag": "/1ltoNixc7E",
+  "selfLink": "https://www.googleapis.com/books/v1/volumes/IwywDY4P6gsC",
+  "volumeInfo": {
+    "title": "Foundation",
+    "authors": ["Isaac Asimov"],
+    "publisher": "Random House Publishing Group",
+    "publishedDate": "2004-06-01",
+    "description":
+      "For twelve thousand years the Galactic Empire has ruled supreme. Now it is dying. But only Hari Sheldon, creator of the revolutionary science of psychohistory, can see into the future--to a dark age of ignorance, barbarism, and warfare that will last thirty thousand years. To preserve knowledge and save mankind, Seldon gathers the best minds in the Empire--both scientists and scholars--and brings them to a bleak planet at the edge of the Galaxy to serve as a beacon of hope for a fututre generations. He calls his sanctuary the Foundation.\u003cbr\u003e\u003cbr\u003eBut soon the fledgling Foundation finds itself at the mercy of corrupt warlords rising in the wake of the receding Empire. Mankind's last best hope is faced with an agonizing choice: submit to the barbarians and be overrun--or fight them and be destroyed.",
+    "industryIdentifiers": [
+      {
+        "type": "ISBN_10",
+        "identifier": "055390034X"
+      },
+      {
+        "type": "ISBN_13",
+        "identifier": "9780553900347"
+      }
+    ],
+    "readingModes": {
+      "text": true,
+      "image": false
+    },
+    "pageCount": 320,
+    "printedPageCount": 255,
+    "printType": "BOOK",
+    "categories": [
+      "Fiction / Science Fiction / Hard Science Fiction",
+      "Fiction / Classics",
+      "Fiction / Science Fiction / Space Opera"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 3404,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "2.7.4.0.preview.2",
+    "panelizationSummary": {
+      "containsEpubBubbles": false,
+      "containsImageBubbles": false
+    },
+    "imageLinks": {
+      "smallThumbnail":
+        "http://books.google.com/books/content?id=IwywDY4P6gsC&printsec=frontcover&img=1&zoom=5&imgtk=AFLRE72ZU5y5GUnsZCTteC_XylB59XtGIi_uPhlGfYkVmmGTSJy97rJQL1szAgzIMc-_IaII-VMKDWZwOzaVMcusS06iPNQcEBEjFcydFfR3pro2cWoPrG4kx2j2okW8GROJoXaLenO-&source=gbs_api",
+      "thumbnail":
+        "http://books.google.com/books/content?id=IwywDY4P6gsC&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72vrSMmnBq7wGd2reNE7GctQ1OvM0KoY3HZNHycSozX-gjBkF58OXiTq-3zg3NdqkrXbVZ8udZu6im2RzSxuiOz3XhkS3U9dBvFS0BqXbXiDhhIjXUK7jUqPZxEKrARJiA8KuUg&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink":
+      "http://books.google.co.uk/books?id=IwywDY4P6gsC&hl=&source=gbs_api",
+    "infoLink":
+      "https://play.google.com/store/books/details?id=IwywDY4P6gsC&source=gbs_api",
+    "canonicalVolumeLink":
+      "https://market.android.com/details?id=book-IwywDY4P6gsC"
+  },
+  "layerInfo": {
+    "layers": [
+      {
+        "layerId": "geo",
+        "volumeAnnotationsVersion": "8"
+      }
+    ]
+  },
+  "saleInfo": {
+    "country": "GB",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+  },
+  "accessInfo": {
+    "country": "GB",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+      "isAvailable": true
+    },
+    "pdf": {
+      "isAvailable": true
+    },
+    "webReaderLink":
+      "http://play.google.com/books/reader?id=IwywDY4P6gsC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+  }
+}
